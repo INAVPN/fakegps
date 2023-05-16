@@ -79,6 +79,18 @@ For business transfers: We may use Your information to evaluate or conduct a mer
 
 For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
 
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+Google Play Services
+
+AdMob
+
+Google Analytics for Firebase
+
+Firebase Crashlytics
+
 We may share Your personal information in the following situations:
 
 With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
