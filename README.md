@@ -1,5 +1,5 @@
-# fakegps.github.io
-Privacy Policy for Fake Mark GPS Location
+# Fake GPS Location
+# Privacy Policy for Fake GPS Location
 
 Privacy Policy
 Last updated: May 15, 2023
@@ -156,4 +156,4 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 Contact Us
-If you have any questions about this Privacy Policy, You can contact us:
+If you have any questions about this Privacy Policy, You can contact us: I.N.A-Tech@outlook.com
