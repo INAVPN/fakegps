@@ -1,5 +1,4 @@
-# Fake GPS Location
-
+# Fake GPS Location App
 # Privacy Policy for Fake GPS Location
 
 Privacy Policy
