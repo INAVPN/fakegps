@@ -1,4 +1,5 @@
 # Fake GPS Location
+tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "INSTALLING SLOW DNS SSH" ; tput sgr0
 # Privacy Policy for Fake GPS Location
 
 Privacy Policy
