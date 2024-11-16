@@ -26,3 +26,7 @@ thebrave.io, 1234633, RESELLER, c25b2154543746ac
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
+
+
+# Pubmatic
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
